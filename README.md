@@ -29,4 +29,4 @@ The Bill Split Calculator determines how much each person should pay when splitt
 
 
 ## 🌐 Live Demo
-https://amit7git.github.io/Python--Day-2-Bill_Split_Calculator/
+https://amit7git.github.io/Python--Day-2-Tip_Calulator/
