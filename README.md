@@ -51,4 +51,4 @@ The Tip Calculator determines how much each person should pay when splitting a b
 ---
 
 ## 🌐 Live Demo
-https://amit7git.github.io/Python--Day-2-Tip_Calculator/
+https://amit7git.github.io/Python--Day-2-Tip_Calulator/
